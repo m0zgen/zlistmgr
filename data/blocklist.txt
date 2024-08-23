@@ -1,0 +1,3 @@
+/(^|^.*\.)ads.adfox.(ru)$/
+/(^|^.*\.)example.(com|net)$/
+evil.com
